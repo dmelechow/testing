@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.testing.MyActivity.ActivityTeam">
+    <item android:id="@+id/back_from_team"
+        android:title="Back"
+        android:orderInCategory="1"
+        app:showAsAction="always" />
+</menu>
