@@ -64,7 +64,7 @@ public class WorkDB {
             }
         }
 
-        c.close();
+        //c.close();
         db.close();
         dbHelper.close();
 
